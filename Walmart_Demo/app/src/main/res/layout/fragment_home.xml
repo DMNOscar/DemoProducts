@@ -1,0 +1,37 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.walmart.Home.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/margin"
+        android:padding="@dimen/pading"
+        android:layout_gravity="center"
+        >
+
+
+        <Button
+            android:id="@+id/btnProductsLis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:text="@string/text_products"
+            />
+
+        <Button
+            android:id="@+id/btnGetData"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:text="@string/text_load_view"
+            />
+
+
+
+    </LinearLayout>
+
+</FrameLayout>

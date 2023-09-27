@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textHeight">25sp</dimen>
+    <dimen name="textTitle">20sp</dimen>
+    <dimen name="textTitleBig">28sp</dimen>
+    <dimen name="textNormal">14sp</dimen>
+    <dimen name="textSmall">12sp</dimen>
+    <dimen name="textMiniature">10sp</dimen>
+
+    <dimen name="margin">8dp</dimen
+    ><dimen name="margin_filter">3dp</dimen>
+    <dimen name="pading">10dp</dimen>
+    <dimen name="minPading">5dp</dimen>
+    <dimen name="cornerCard">8dp</dimen>
+    <dimen name="roundCorner">20dp</dimen>
+    <dimen name="cardElevation">2dp</dimen>
+    <dimen name="marginTop">80dp</dimen>
+
+    <dimen name="nav_header_height">100dp</dimen>
+    <dimen name="navigation_drawer_width">400dp</dimen>
+    <dimen name="video_width">220dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="height_button">45dp</dimen>
+    <dimen name="radius_corners_container">8dp</dimen>
+    <dimen name="width_container_tablet">950dp</dimen>
+    <dimen name="width_butto_tablet">380dp</dimen>
+    <dimen name="margin_tablet">40dp</dimen>
+    <dimen name="width_container_data_home">140dp</dimen>
+    <dimen name="width_medium_container">300dp</dimen>
+</resources>
